@@ -1,10 +1,10 @@
 
 import { Orco } from "./Orco";
-import { SuperOrco } from "./OrcoS";
+import { SuperOrco } from "./OrcoSuper";
 import { Elfo } from "./Elfo";
-import { SuperElfo } from "./ElfoS";
+import { SuperElfo } from "./ElfoSuper";
 import { Mago } from "./Mago";
-import { SuperMago } from "./MagoS";
+import { SuperMago } from "./MagoSuper";
 
 let orco=new Orco();
 let orcoS=new SuperOrco();
